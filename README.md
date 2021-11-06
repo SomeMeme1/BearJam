@@ -20,7 +20,7 @@ Justin Hui - Starter/Feedback
 
 Karman Singh - Code
 
-Kobe Tebulinar - Music
+Kobe Tabulinar - Music
 
 Sameem Saleem - Art/Code
 
