@@ -1,7 +1,7 @@
 # BearJam
 The HHS Bear Jam submission for 2021 Fall Semester.
 
-GAME IS IN GDScript!
+GAME IS IN GDScript (Godot Game Engine coding language, very similar to Python)!
 
 Tutorial to get started:
 https://www.youtube.com/watch?v=0713nlQxU7I
