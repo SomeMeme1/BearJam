@@ -1,6 +1,13 @@
 # BearJam
 The HHS Bear Jam submission for 2021 Fall Semester.
 
+GAME IS IN GDScript!
+
+Tutorial to get started:
+https://www.youtube.com/watch?v=0713nlQxU7I
+
+
+
 TEAM:
 
 Ayeza Taimoor - Code
