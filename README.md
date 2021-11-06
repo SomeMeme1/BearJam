@@ -16,6 +16,8 @@ Isabella Garcia - Consulation
 
 Jacob Bueno - Game Design/Code
 
+Justin Hui - Starter/Feedback
+
 Karman Singh - Code
 
 Kobe Tebulinar - Music
